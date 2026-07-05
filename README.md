@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is to test understanding
 
 
@@ -1079,3 +1080,6 @@ this is to test understanding
   </body>
 </html>
 
+=======
+This is a practice file to check understandings
+>>>>>>> 8c3c1ccd81ec546ec336dc29e8ee15dc48090f80
